@@ -1,0 +1,2 @@
+C:\Users\th\Desktop\DirectX12\DirectX12\Debug\DirectX12.exe
+C:\Users\th\Desktop\DirectX12\DirectX12\Debug\DirectX12.pdb
